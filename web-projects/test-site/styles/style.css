@@ -1,0 +1,21 @@
+p{color:red;width:600px;border:1px solid black;background-color:rosybrown}
+h1{margin: 0;color:green;text-align: center;text-shadow: 3px 3px 1px black;}
+h2{color:yellow}
+.first{text-decoration: line-through}
+html {
+    font-size: 20px;
+    font-family: 'Slabo 27px', serif;
+    background-color:greenyellow
+  }
+  body {
+    width: 600px;
+    margin: 10px auto;
+    background-color: #FF9500;
+    padding: 30px 60px 60px 60px;
+    border: 5px solid black;
+  }
+  img{width: 600px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+  }
